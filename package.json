@@ -1,0 +1,21 @@
+{
+  "name": "cypressproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "executesingletest": "npx cypress run -s ./cypress/e2e/assertions.cy.js -b chrome --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2",
+    "cypress-mochawesome-reporter": "^3.8.0"
+  },
+  "dependencies": {
+    "cypress-downloadfile": "^1.2.3",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
