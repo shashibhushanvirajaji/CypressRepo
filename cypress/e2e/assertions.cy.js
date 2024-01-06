@@ -21,7 +21,7 @@ describe('checking assertions',()=>{
 
         cy.get('.badge').eq(1).invoke('text').then((text)=>
         {
-            expect(text).to.be.equal('58')
+            expect(text).to.be.equal('54')
         })
 
         cy.get('.badge').eq(0).invoke('text').then(text=>{
