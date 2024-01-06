@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "executesingletest": "npx cypress run -s ./cypress/e2e/assertions.cy.js -b chrome --headed"
+    "executealltests": "npx cypress run"
   },
   "keywords": [],
   "author": "",
