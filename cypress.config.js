@@ -15,9 +15,18 @@ module.exports = defineConfig({
     
     watchForFileChanges:false,
     setupNodeEvents(on, config) {
+      on('after:run', async () => {
+        console.log('override after:run');
+        await afterRunHook();
+      });
+      on('before:run', async (details) => {
+        console.log('override before:run');
+        await beforeRunHook(details);
+      });
       // implement node event listeners here
       on('task', {downloadFile})
       require('cypress-mochawesome-reporter/plugin')(on);
     },
+    
   },
 });
