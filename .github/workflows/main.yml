@@ -21,5 +21,7 @@ jobs:
         with:
           build: npm run executealltests
           record: true
+        env:
+          CYPRESS_RECORD_KEY:${{secrets.CYPRESS_RECORD_KEY}}
           parallel: true
           
