@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "executealltests": "npx cypress run"
+    "executealltests": "npx cypress run --record"
   },
   "keywords": [],
   "author": "",
