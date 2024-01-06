@@ -20,8 +20,10 @@ jobs:
         uses: cypress-io/github-action@v6
         with:
           build: npm run executealltests
+          parallel: true
           record: true
         env:
           CYPRESS_RECORD_KEY:${{secrets.CYPRESS_RECORD_KEY}}
-          parallel: true
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+         
           
