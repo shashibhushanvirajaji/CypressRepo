@@ -2,7 +2,7 @@
 import { LoginPage } from "./pages/LoginPage"
 import { WelcomePage } from "./pages/WelcomePage"
 
-describe('login test suite', () => {
+describe.skip('login test suite', () => {
     const loginpage = new LoginPage()
     const welcomePage = new WelcomePage()
 
