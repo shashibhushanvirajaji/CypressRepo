@@ -1,7 +1,7 @@
 
 describe('file upload and download',()=>{
 
-    it.skip('uploading a file',()=>{
+    it('uploading a file',()=>{
         cy.visit('https://the-internet.herokuapp.com/upload')
         //cy.get('#file-upload').attachFile('credentials.json')
 

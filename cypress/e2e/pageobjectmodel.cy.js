@@ -6,7 +6,7 @@ describe('login test suite', () => {
     const loginpage = new LoginPage()
     const welcomePage = new WelcomePage()
 
-    testdata
+    var testdata
     before(() => {
         cy.fixture('invalidcredentials').then((data) => {
             testdata = data

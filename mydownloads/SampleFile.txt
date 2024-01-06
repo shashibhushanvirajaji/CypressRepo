@@ -36,259 +36,67 @@
         <div class="example">
   <h3>File Downloader</h3>
   
-    <a href="download/Xray.pdf">Xray.pdf</a>
-    </br>
-  
-    <a href="download/TextDoc.txt">TextDoc.txt</a>
-    </br>
-  
-    <a href="download/MyTest.TXT">MyTest.TXT</a>
-    </br>
-  
-    <a href="download/empty.txt">empty.txt</a>
-    </br>
-  
-    <a href="download/file1.txt">file1.txt</a>
-    </br>
-  
-    <a href="download/test_gabriel.txt">test_gabriel.txt</a>
-    </br>
-  
-    <a href="download/TestData.xlsx">TestData.xlsx</a>
-    </br>
-  
-    <a href="download/testDoc.txt">testDoc.txt</a>
-    </br>
-  
-    <a href="download/LambdaTest.txt">LambdaTest.txt</a>
-    </br>
-  
-    <a href="download/testing.pdf">testing.pdf</a>
-    </br>
-  
-    <a href="download/example.json">example.json</a>
-    </br>
-  
-    <a href="download/my Selenium.txt">my Selenium.txt</a>
-    </br>
-  
-    <a href="download/salarystack (9).pdf">salarystack (9).pdf</a>
-    </br>
-  
-    <a href="download/SA.png">SA.png</a>
-    </br>
-  
-    <a href="download/2024-01-02 212752.png">2024-01-02 212752.png</a>
-    </br>
-  
-    <a href="download/goog.webp">goog.webp</a>
-    </br>
-  
-    <a href="download/agilephoto.png">agilephoto.png</a>
-    </br>
-  
-    <a href="download/multiline.csv">multiline.csv</a>
-    </br>
-  
-    <a href="download/sample-zip-file.zip">sample-zip-file.zip</a>
-    </br>
-  
-    <a href="download/Write Excel Testdata2.csv">Write Excel Testdata2.csv</a>
-    </br>
-  
-    <a href="download/img1a.webp">img1a.webp</a>
-    </br>
-  
-    <a href="download/Capture.PNG">Capture.PNG</a>
-    </br>
-  
-    <a href="download/orangehrm9.json">orangehrm9.json</a>
-    </br>
-  
-    <a href="download/uploadPic.jpg">uploadPic.jpg</a>
-    </br>
-  
-    <a href="download/Palanisankar_S_Resume (2023).pdf">Palanisankar_S_Resume (2023).pdf</a>
-    </br>
-  
-    <a href="download/Test.txt">Test.txt</a>
-    </br>
-  
-    <a href="download/selenium-snapshot.png">selenium-snapshot.png</a>
-    </br>
-  
-    <a href="download/trial.txt">trial.txt</a>
-    </br>
-  
-    <a href="download/Img.jpg">Img.jpg</a>
-    </br>
-  
-    <a href="download/json.json">json.json</a>
-    </br>
-  
-    <a href="download/AddCustomerToSalesInvoice.xaml">AddCustomerToSalesInvoice.xaml</a>
-    </br>
-  
-    <a href="download/FastSpring  Revenue Overview (23).csv">FastSpring  Revenue Overview (23).csv</a>
-    </br>
-  
-    <a href="download/Anualidad gimnasio 2022-2023 March (1).pdf">Anualidad gimnasio 2022-2023 March (1).pdf</a>
-    </br>
-  
-    <a href="download/xpth.TXT">xpth.TXT</a>
-    </br>
-  
-    <a href="download/Xray .pdf">Xray .pdf</a>
-    </br>
-  
-    <a href="download/testing.docx">testing.docx</a>
-    </br>
-  
-    <a href="download/Havey Car VJX.png">Havey Car VJX.png</a>
-    </br>
-  
-    <a href="download/sample.pdf">sample.pdf</a>
-    </br>
-  
-    <a href="download/myfile.pdf">myfile.pdf</a>
-    </br>
-  
-    <a href="download/ThisIsMyFilename.textfile">ThisIsMyFilename.textfile</a>
-    </br>
-  
-    <a href="download/1.jpeg">1.jpeg</a>
-    </br>
-  
-    <a href="download/orangehrm.json">orangehrm.json</a>
-    </br>
-  
-    <a href="download/Anualidad gimnasio 2022-2023 (1) (1) (1) (1) (1) (1) (1) (1) (1).pdf">Anualidad gimnasio 2022-2023 (1) (1) (1) (1) (1) (1) (1) (1) (1).pdf</a>
-    </br>
-  
-    <a href="download/luminoslogo.png">luminoslogo.png</a>
-    </br>
-  
-    <a href="download/testing.jpeg">testing.jpeg</a>
-    </br>
-  
-    <a href="download/user.credentials.json">user.credentials.json</a>
+    <a href="download/sample.png">sample.png</a>
     </br>
   
     <a href="download/webdriverIO.png">webdriverIO.png</a>
     </br>
   
-    <a href="download/upload.png">upload.png</a>
+    <a href="download/ThisIsMyFilename.textfile">ThisIsMyFilename.textfile</a>
     </br>
   
-    <a href="download/file.txt">file.txt</a>
+    <a href="download/multiline.csv">multiline.csv</a>
     </br>
   
     <a href="download/some-file.txt">some-file.txt</a>
     </br>
   
-    <a href="download/vbacode.txt">vbacode.txt</a>
-    </br>
-  
-    <a href="download/puppy.png">puppy.png</a>
-    </br>
-  
-    <a href="download/TestFile1.docx">TestFile1.docx</a>
-    </br>
-  
-    <a href="download/software-quality.png">software-quality.png</a>
-    </br>
-  
-    <a href="download/image.png">image.png</a>
-    </br>
-  
-    <a href="download/5mb script.xml">5mb script.xml</a>
-    </br>
-  
-    <a href="download/1721854.jpeg">1721854.jpeg</a>
-    </br>
-  
-    <a href="download/clasificacion.csv">clasificacion.csv</a>
-    </br>
-  
-    <a href="download/code.txt">code.txt</a>
-    </br>
-  
-    <a href="download/Write Excel Testdata1.xlsx">Write Excel Testdata1.xlsx</a>
-    </br>
-  
-    <a href="download/new.jpg">new.jpg</a>
+    <a href="download/Locators.txt">Locators.txt</a>
     </br>
   
     <a href="download/preprod.json">preprod.json</a>
     </br>
   
-    <a href="download/Anualidad gimnasio 2022-2023 (1) (1) (1) (1) (1).pdf">Anualidad gimnasio 2022-2023 (1) (1) (1) (1) (1).pdf</a>
+    <a href="download/text.txt">text.txt</a>
     </br>
   
-    <a href="download/open.PNG">open.PNG</a>
+    <a href="download/LambdaTest.txt">LambdaTest.txt</a>
     </br>
   
-    <a href="download/testing.mp3">testing.mp3</a>
+    <a href="download/not_empty.txt">not_empty.txt</a>
     </br>
   
-    <a href="download/macbook.png">macbook.png</a>
+    <a href="download/5mb script.xml">5mb script.xml</a>
+    </br>
+  
+    <a href="download/upload-me.txt">upload-me.txt</a>
+    </br>
+  
+    <a href="download/screenshot_1.png">screenshot_1.png</a>
+    </br>
+  
+    <a href="download/AJEI6590.mp4">AJEI6590.mp4</a>
+    </br>
+  
+    <a href="download/json.json">json.json</a>
+    </br>
+  
+    <a href="download/test1.pdf">test1.pdf</a>
+    </br>
+  
+    <a href="download/sample-zip-file.zip">sample-zip-file.zip</a>
+    </br>
+  
+    <a href="download/488E3E7A-CDF6-407C-946F-798D95C0E618.png">488E3E7A-CDF6-407C-946F-798D95C0E618.png</a>
+    </br>
+  
+    <a href="download/selenium.pdf">selenium.pdf</a>
     </br>
   
     <a href="download/Jpeg_with_exif.jpeg">Jpeg_with_exif.jpeg</a>
     </br>
   
-    <a href="download/Selenium Demo.docx">Selenium Demo.docx</a>
-    </br>
-  
-    <a href="download/chromedriver.exe">chromedriver.exe</a>
-    </br>
-  
-    <a href="download/dog.jpg">dog.jpg</a>
-    </br>
-  
-    <a href="download/puppy_and_kitten.jpg">puppy_and_kitten.jpg</a>
-    </br>
-  
-    <a href="download/file.png">file.png</a>
-    </br>
-  
-    <a href="download/firstScript.txt">firstScript.txt</a>
-    </br>
-  
-    <a href="download/sample.png">sample.png</a>
-    </br>
-  
-    <a href="download/testImage.jpg">testImage.jpg</a>
-    </br>
-  
-    <a href="download/sample_media_file.png">sample_media_file.png</a>
-    </br>
-  
-    <a href="download/text.txt">text.txt</a>
-    </br>
-  
-    <a href="download/dsad.xml">dsad.xml</a>
-    </br>
-  
-    <a href="download/JBV2.jpg">JBV2.jpg</a>
-    </br>
-  
-    <a href="download/sample_image.png">sample_image.png</a>
-    </br>
-  
-    <a href="download/Image.PNG">Image.PNG</a>
-    </br>
-  
-    <a href="download/Excel.xlsx">Excel.xlsx</a>
-    </br>
-  
-    <a href="download/FastSpring  Revenue Overview (24).csv">FastSpring  Revenue Overview (24).csv</a>
-    </br>
-  
-    <a href="download/POM BY SDET.txt">POM BY SDET.txt</a>
-    </br>
-  
-    <a href="download/upload_file.xlsx">upload_file.xlsx</a>
+    <a href="download/dummy.txt">dummy.txt</a>
     </br>
   
 </div>
