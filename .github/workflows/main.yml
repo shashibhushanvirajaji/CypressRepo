@@ -19,7 +19,7 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v6
         with:
-          start: npm executealltests
+          build: npm run executealltests
           parallel: false
           record: true
         env:
