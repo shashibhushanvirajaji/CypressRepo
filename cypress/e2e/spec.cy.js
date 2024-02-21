@@ -4,6 +4,6 @@ describe('template spec', () => {
   })
   it('title check',()=>{
     cy.visit('https://example.cypress.io')
-    cy.url().contains("Cypress.io: Kitchen Sink")
+    cy.title().contains("Cypress.io: Kitchen Sink")
   })
 })
